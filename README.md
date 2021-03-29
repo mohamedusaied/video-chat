@@ -4,5 +4,5 @@ A video chat web app
 
 See more:
 - * [tutorial](https://www.scaledrone.com/blog/posts/webrtc-tutorial-simple-video-chat)
-+ * [Live demo](https://mohamedusaied.github.io/video-chat/index.html)
++ * [Live demo](https://mohamedusaied.github.io/video-chat/videos.html)
 
